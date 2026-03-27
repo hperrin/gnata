@@ -492,4 +492,4 @@ cp "$(go env GOROOT)/lib/wasm/wasm_exec.js" .
 
 ## License
 
-gnata is licensed under the [MIT License](LICENSE).
+This entire project was written by an AI agent, and is therefore in the public domain.
